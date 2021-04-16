@@ -1,26 +1,25 @@
 title: Stu Sontier cleanNFTs on HicetNunc
 author: GitHub User
-email: your-email@domain.com
+email: stu@stusontier.net
 description: > # this means to ignore newlines until "twitter_username:"
-  Write an awesome description for your new site here. You can edit this line in _config.yml. It will
-  appear in your document head meta (for Google search results) and in your feed.xml site description.
+  This github shows Stu Sontier's NFTs from Hic et Nunc tezos-based cleanNFT project. Note that it is manually updated, not live.
 
 # social links
 twitter_username: StuSontier
-github_username:  mathmakesart
+github_username:  stumats
 rss: rss
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-# instagram_username: jekyll
+instagram_username: stusontierphoto
 # linkedin_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: jekyll
 # googleplus_username: +jekyll
 
 # Cryptocurrency Related
-crypto_address_xtz: "tz1yourAddressHere"
-hicetnunc_profile_url: "https://www.hicetnunc.xyz/tz/tz1yourAddressHere"
+crypto_address_xtz: "tz1U8mFPuyGr48BWnULky9kUqAVQk8ewBHtU"
+hicetnunc_profile_url: "https://www.hicetnunc.xyz/tz/tz1U8mFPuyGr48BWnULky9kUqAVQk8ewBHtU"
 
 # Collections
 collections:
