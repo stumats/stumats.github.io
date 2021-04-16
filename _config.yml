@@ -1,0 +1,65 @@
+title: Your awesome title
+author: GitHub User
+email: your-email@domain.com
+description: > # this means to ignore newlines until "twitter_username:"
+  Write an awesome description for your new site here. You can edit this line in _config.yml. It will
+  appear in your document head meta (for Google search results) and in your feed.xml site description.
+
+# social links
+twitter_username: mathmakesart
+github_username:  mathmakesart
+rss: rss
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: jekyll
+# linkedin_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: jekyll
+# googleplus_username: +jekyll
+
+# Cryptocurrency Related
+crypto_address_xtz: "tz1yourAddressHere"
+hicetnunc_profile_url: "https://www.hicetnunc.xyz/tz/tz1yourAddressHere"
+
+# Collections
+collections:
+  primary:
+    output: true
+    sort_by: list_priority
+  secondary:
+    output: true
+    sort_by: list_priority
+  unlisted:
+    output: true
+    sort_by: list_priority
+
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
+
+# If you want to link only specific pages in your header, uncomment this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.html
+
+# Build settings
+remote_theme: jeketnunc/jeketnunc@main
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-remote-theme
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
+  - LICENSE.md
