@@ -1,0 +1,14 @@
+body {  background: #EBEBEB url('../pjp_images/menu_gradient.gif') top left repeat-x;
+	background-color: #EBEBEB;
+	margin: 0px;
+	padding: 0px;
+}
+
+.centre {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.caption {
+	margin-top: 15px;
+}
