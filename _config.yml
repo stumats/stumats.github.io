@@ -17,6 +17,9 @@ instagram_username: stusontierphoto
 # youtube_username: jekyll
 # googleplus_username: +jekyll
 
+# web related
+website_url: "https://stusontier.net"
+
 # Cryptocurrency Related
 crypto_address_xtz: "tz1U8mFPuyGr48BWnULky9kUqAVQk8ewBHtU"
 hicetnunc_profile_url: "https://www.hicetnunc.xyz/tz/tz1U8mFPuyGr48BWnULky9kUqAVQk8ewBHtU"
