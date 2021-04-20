@@ -42,7 +42,7 @@ minima:
 
 
 # Build settings
-remote_theme: jeketnunc/jeketnunc@main
+remote_theme: stumats/jeketnunc@main
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
